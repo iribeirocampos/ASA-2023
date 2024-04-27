@@ -35,5 +35,5 @@ Project 3 - 19/20 ![Grade](https://img.shields.io/badge/Grade-A%2B-brightgreen) 
 <h2>Copyright</h2>
 This project is licensed under the terms of the MIT license and protected by IST Honor Code and Community Code of Conduct. 
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c+&logoColor=white)
-![Python](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c+&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
