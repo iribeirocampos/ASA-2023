@@ -18,40 +18,15 @@ There were 3 projects in this course:
  
 ### Grades: 
 
-Project 1 - 19/20 ![Grade](https://img.shields.io/badge/Grade-A%2B-brightgreen)
-Project 2 - 19/20 ![Grade](https://img.shields.io/badge/Grade-A%2B-brightgreen)
-Project 3 - 19/20 ![Grade](https://img.shields.io/badge/Grade-A%2B-brightgreen)
+Project 1 - 19/20 ![Grade](https://img.shields.io/badge/Grade-A%2B-brightgreen) <br>
+Project 2 - 19/20 ![Grade](https://img.shields.io/badge/Grade-A%2B-brightgreen) <br>
+Project 3 - 19/20 ![Grade](https://img.shields.io/badge/Grade-A%2B-brightgreen) <br>
 
 ## Problem Specification
 
-[Project 1](project1/project1.md)
-[Project 2](project2/project2.md)
-[Project 3](project3/project3.md)
-
-
-## Compilation
-To compile the program, use the following command:
-
-```bash
-gcc -O3 -Wall -Wextra -Werror -Wno-unused-result -o proj1 *.c
-```
-## Run
-Run the program using the following command:
-
-```bash
-./proj1
-```
-
-## Testing
-To run all tests:
-1. cd into folder containing all tests
-```bash
-cd tests
-```
-2. Run command make:
-```bash
-make
-``` 
+[Project 1](project1/project1.md) <br>
+[Project 2](project2/project2.md) <br>
+[Project 3](project3/project3.md) <br>
 
 <h2>Credits</h2>
 
@@ -60,4 +35,5 @@ make
 <h2>Copyright</h2>
 This project is licensed under the terms of the MIT license and protected by IST Honor Code and Community Code of Conduct. 
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c+&logoColor=white)
+![Python](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c+&logoColor=white)
